@@ -1,0 +1,41 @@
+img {
+    max-width: 100% ;
+    height: auto ;
+    display: block ;
+    margin: 0 auto ;
+    }
+     #title {
+       display: flex ;
+       justify-content: center;
+       font-size: 3.6rem ;
+       font-family: "Gideon Roman" , serif ;
+    }
+    body {
+        background-color: #d7c8ac;
+        margin: 0
+    }
+    img {
+      overflow-clip-margin: content-box;
+        overflow: clip;
+    }
+    .caption {
+      font-size: 1.2rem;
+      text-align: center ;
+    }
+    .start {
+    text-align: center ;
+    }
+    .bold { 
+      font-size: 1.2rem
+    }
+    h3 {
+      display: flex ;
+      justify-content: center;
+    }
+    a {
+      display: flex ;
+      justify-content: center;
+      font-size: 5rem ;
+      text-decoration: none ;
+    }
+    
